@@ -12,6 +12,7 @@
         "sofa": "textures/ndm/sofa",
         "m_sofa": "textures/ndm/m_sofa",
         "l_sofa": "textures/ndm/l_sofa",
+  "notebook_off": "textures/ndm/notebook_off",
 	"r_sofa": "textures/ndm/r_sofa",
   "stove": "textures/ndm/stove",
   "notebook": "textures/ndm/notebook"

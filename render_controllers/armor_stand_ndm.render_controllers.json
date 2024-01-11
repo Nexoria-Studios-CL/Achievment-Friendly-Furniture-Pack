@@ -10,18 +10,19 @@
             "Texture.l_sofa",
             "Texture.r_sofa",
             "Texture.stove",
+            "Texture.notebook_off",
             "Texture.notebook"
           ]
         }
       },
-      "geometry": "query.is_name_any('Notebook', 'notebook') ? Geometry.notebook : query.is_name_any('Stove', 'stove') ? Geometry.stove : query.is_name_any('Sofa', 'sofa') ? Geometry.sofa : (query.is_name_any('M_sofa', 'm_sofa') ? Geometry.m_sofa : (query.is_name_any('L_sofa', 'l_sofa') ? Geometry.l_sofa : (query.is_name_any('R_sofa', 'r_sofa') ? Geometry.r_sofa : (Geometry.default))))",
+      "geometry": "query.is_name_any('Notebook', 'notebook', 'Notebook_off', 'notebook_off') ? Geometry.notebook : query.is_name_any('Stove', 'stove') ? Geometry.stove : query.is_name_any('Sofa', 'sofa') ? Geometry.sofa : (query.is_name_any('M_sofa', 'm_sofa') ? Geometry.m_sofa : (query.is_name_any('L_sofa', 'l_sofa') ? Geometry.l_sofa : (query.is_name_any('R_sofa', 'r_sofa') ? Geometry.r_sofa : (Geometry.default))))",
       "materials": [
         {
           "*": "Material.default"
         }
       ],
       "textures": [
-        "query.is_name_any('Notebook', 'notebook') ? Texture.notebook : query.is_name_any('Stove', 'stove') ? Texture.stove : query.is_name_any('Sofa', 'sofa') ? Texture.sofa : (query.is_name_any('M_sofa', 'm_sofa') ? Texture.m_sofa : (query.is_name_any('L_sofa', 'l_sofa') ? Texture.l_sofa : (query.is_name_any('R_sofa', 'r_sofa') ? Texture.r_sofa : (Texture.default))))"
+        "query.is_name_any('Notebook_off', 'notebook_off') ? Texture.notebook_off : query.is_name_any('Notebook', 'notebook') ? Texture.notebook : query.is_name_any('Stove', 'stove') ? Texture.stove : query.is_name_any('Sofa', 'sofa') ? Texture.sofa : (query.is_name_any('M_sofa', 'm_sofa') ? Texture.m_sofa : (query.is_name_any('L_sofa', 'l_sofa') ? Texture.l_sofa : (query.is_name_any('R_sofa', 'r_sofa') ? Texture.r_sofa : (Texture.default))))"
       ],
       "overlay_color": {
         "r": "this",

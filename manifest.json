@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Use móveis sem mods! / Use furniture without mods!",
+        "name": "Achievment Friendly Furniture Pack",
+        "uuid": "5141ddf2-92be-406d-a21c-de4da085be8a",
+        "version": [1, 0, 1],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "a7552821-b429-4808-b455-b55f445f9372",
+            "version": [1, 0, 1]
+        }
+    ]
+}

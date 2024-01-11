@@ -1,6 +1,8 @@
 <div align="middle">
 <p>
 <b>It would be really good if you could use furniture without downloading mods in Minecraft Bedrock, right? Well, you can!</b>
+</p>
+<p>
 <img src="https://i.ibb.co/2j4TNpV/title.png)https://i.ibb.co/2j4TNpV/title.png">
 </p>
 <h1>What is this?</h1>

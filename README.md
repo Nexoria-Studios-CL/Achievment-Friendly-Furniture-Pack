@@ -1,6 +1,8 @@
 <div align="middle">
+<p>
 <b>It would be really good if you could use furniture without downloading mods in Minecraft Bedrock, right? Well, you can!</b>
 <img src="https://i.ibb.co/2j4TNpV/title.png)https://i.ibb.co/2j4TNpV/title.png">
+</p>
 <h1>What is this?</h1>
 <p>Achievment Friendly Furniture Pack (or AFFP) is a fork from the NDM model, by MrFrog. With it, you can use furniture without even installing mods or addons in Minecraft Bedrock Edition!</p>
 <h1>How it works?</h1>

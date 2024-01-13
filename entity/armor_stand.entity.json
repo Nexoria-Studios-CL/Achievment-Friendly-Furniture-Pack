@@ -15,7 +15,8 @@
   "notebook_off": "textures/ndm/notebook_off",
 	"r_sofa": "textures/ndm/r_sofa",
   "stove": "textures/ndm/stove",
-  "notebook": "textures/ndm/notebook"
+  "notebook": "textures/ndm/notebook",
+  "zbox": "textures/ndm/zbox"
       },
       "animations": {
         "default_pose": "animation.armor_stand.default_pose",
@@ -52,7 +53,8 @@
         "m_sofa": "geometry.m_sofa",
 	"r_sofa": "geometry.r_sofa",
   "stove": "geometry.stove",
-  "notebook": "geometry.notebook"
+  "notebook": "geometry.notebook",
+  "zbox": "geometry.zbox"
       },
       "render_controllers": [
         "controller.render.armor_stand_ndm"

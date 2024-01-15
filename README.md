@@ -46,6 +46,11 @@
 </details>
 
 <details>
+<summary><h2>PauseStation 5</h2></summary>
+<p>Nametag: "Pausestation5" or "pausestation5"</p>
+</details>
+
+<details>
 <summary><h2>Zbox Variant S</h2></summary>
 <p>Nametag: "Zbox" or "zbox"</p>
 </details>

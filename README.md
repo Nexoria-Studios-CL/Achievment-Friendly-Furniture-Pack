@@ -44,3 +44,13 @@
 <summary><h2>Notebook</h2></summary>
 <p>Nametag: "Notebook" or "notebook"</p>
 </details>
+
+<details>
+<summary><h2>Zbox Variant S</h2></summary>
+<p>Nametag: "Zbox" or "zbox"</p>
+</details>
+
+<details>
+<summary><h2>Zbox Variant Y</h2></summary>
+<p>Nametag: "Zbox_y" or "zbox_y"</p>
+</details>

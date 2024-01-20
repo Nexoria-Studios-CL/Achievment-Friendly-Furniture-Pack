@@ -18,7 +18,8 @@
   "notebook": "textures/ndm/notebook",
   "zbox": "textures/ndm/zbox",
   "zbox_y": "textures/ndm/zbox_y",
-  "pausestation5": "textures/ndm/pausestation5"
+  "pausestation5": "textures/ndm/pausestation5",
+  "creeper_plush": "textures/ndm/creeper_plush"
       },
       "animations": {
         "default_pose": "animation.armor_stand.default_pose",
@@ -58,7 +59,8 @@
   "notebook": "geometry.notebook",
   "zbox": "geometry.zbox",
   "zbox_y": "geometry.zbox_y",
-  "pausestation5": "geometry.pausestation5"
+  "pausestation5": "geometry.pausestation5",
+  "creeper_plush": "geometry.creeper_plush"
       },
       "render_controllers": [
         "controller.render.armor_stand_ndm"

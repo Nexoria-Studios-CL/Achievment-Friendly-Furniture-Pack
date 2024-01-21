@@ -18,7 +18,16 @@
   "notebook": "textures/ndm/notebook",
   "zbox": "textures/ndm/zbox",
   "zbox_y": "textures/ndm/zbox_y",
-  "pausestation5": "textures/ndm/pausestation5"
+  "pausestation5": "textures/ndm/pausestation5",
+  "doorbarricade": "textures/ndm/doorbarricade",
+  "fell_knight": "textures/ndm/fell_knight",
+  "gamingpc": "textures/ndm/gamingpc",
+  "indoortrash": "textures/ndm/indoortrash",
+  "moai": "textures/ndm/moai",
+  "mug": "textures/ndm/mug",
+  "outdoortrash": "textures/ndm/outdoortrash",
+  "papers": "textures/ndm/papers",
+  "tablelamp": "textures/ndm/tablelamp"
       },
       "animations": {
         "default_pose": "animation.armor_stand.default_pose",
@@ -58,7 +67,16 @@
   "notebook": "geometry.notebook",
   "zbox": "geometry.zbox",
   "zbox_y": "geometry.zbox_y",
-  "pausestation5": "geometry.pausestation5"
+  "pausestation5": "geometry.pausestation5",
+  "doorbarricade": "geometry.doorbarricade",
+  "fell_knight": "geometry.fell_knight",
+  "gamingpc": "geometry.gamingpc",
+  "indoortrash": "geometry.indoortrash",
+  "moai": "geometry.moai",
+  "mug": "geometry.mug",
+  "outdoortrash": "geometry.outdoortrash",
+  "papers": "geometry.papers",
+  "tablelamp": "geometry.tablelamp"
       },
       "render_controllers": [
         "controller.render.armor_stand_ndm"

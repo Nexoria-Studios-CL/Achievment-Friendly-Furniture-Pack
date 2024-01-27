@@ -27,7 +27,8 @@
   "mug": "textures/ndm/mug",
   "outdoortrash": "textures/ndm/outdoortrash",
   "papers": "textures/ndm/papers",
-  "tablelamp": "textures/ndm/tablelamp"
+  "tablelamp": "textures/ndm/tablelamp",
+  "pausestation1": "textures/ndm/pausestation1"
       },
       "animations": {
         "default_pose": "animation.armor_stand.default_pose",
@@ -76,7 +77,8 @@
   "mug": "geometry.mug",
   "outdoortrash": "geometry.outdoortrash",
   "papers": "geometry.papers",
-  "tablelamp": "geometry.tablelamp"
+  "tablelamp": "geometry.tablelamp",
+  "pausestation1": "geometry.pausestation1"
       },
       "render_controllers": [
         "controller.render.armor_stand_ndm"
